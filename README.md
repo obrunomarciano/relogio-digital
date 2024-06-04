@@ -1,5 +1,5 @@
 # Projeto: Relógio Digital.
-Projeto realizado para estudo.
+##### Desenvolvido com o próposito de estudo técnico e prático.
 
 ## Tecnologias:
 - HTML
