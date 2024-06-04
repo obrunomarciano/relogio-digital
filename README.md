@@ -1,5 +1,11 @@
-Relógio Digital dinâmico.
+# Projeto: Relógio Digital.
+Projeto realizado para estudo.
 
-![image](https://github.com/obrunomarciano/relogio-digital/assets/122938679/07d0d093-3b90-4b04-950f-6ee72a994da9)
+## Tecnologias:
+- HTML
+- CSS
+- JavaScript
 
-By: Bruno Marciano
+### Amostra 👇
+https://github.com/obrunomarciano/relogio-digital/assets/122938679/e5bd89d9-d0ae-4cbc-afea-b2248ef2d2a0
+
